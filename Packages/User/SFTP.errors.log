@@ -1,0 +1,14 @@
+2015-12-16 16:42:02
+Traceback (most recent call last):
+  File "C:\Program Files\Sublime Text 3\sublime_plugin.py", line 535, in run_
+    return self.run()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3213, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 137, in create_default_config
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\HuangMin_2\\AppData\\Local\\Temp\\scp25249\\home\\webdev\\webdev\\lidong\\branches-iwencai-20150108\\src\\application\\modules\\default\\views\\scripts\\stockpick\\sftp-config.json'
+2015-12-16 16:42:34
+Traceback (most recent call last):
+  File "C:\Program Files\Sublime Text 3\sublime_plugin.py", line 535, in run_
+    return self.run()
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 3213, in run
+  File "/Users/wbond/Library/Application Support/Sublime Text 3/Packages/SFTP/sftp/commands.py", line 137, in create_default_config
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\HuangMin_2\\AppData\\Local\\Temp\\scp18635\\home\\webdev\\webdev\\lidong\\branches-iwencai-20150108\\src\\application\\configs\\sftp-config.json'
